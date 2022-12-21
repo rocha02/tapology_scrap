@@ -1,0 +1,13 @@
+name: tap_champ
+title: tap_champ
+username:
+account: rocha02
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4190376
+bundleId: 5809387
+url: https://rocha02.shinyapps.io/tap_champ/
+when: 1650283239.97369
+lastSyncTime: 1650283239.97369
+asMultiple: FALSE
+asStatic: FALSE
