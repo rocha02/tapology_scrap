@@ -189,5 +189,4 @@ ggplotly(p, tooltip = "y")
   })
   
 }
-
 shinyApp(ui, server)
